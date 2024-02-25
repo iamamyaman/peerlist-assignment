@@ -3,7 +3,7 @@ import { menuItems } from "../../utils/menuItems";
 
 const Sidebar = () => {
   return (
-    <div className="w-[220px] lg:px-0 px-3">
+    <div className="w-[220px] flex-none  lg:px-0 px-3">
       <img
         src="https://dqy38fnwh4fqs.cloudfront.net/website/peerlist-logo-full.svg"
         className="my-3 h-8"
